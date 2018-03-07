@@ -1,0 +1,17 @@
+{
+  "name": "balanced-braces",
+  "version": "1.0.0",
+  "description": "Solution and CLI visualization tool for the classic balanced braces problem",
+  "repository": "https://github.com/ephraimpei/balanced-braces",
+  "scripts": {
+    "start": "node index.js",
+    "test": "istanbul cover jasmine"
+  },
+  "author": "Ephraim Pei <ephraim.pei@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^3.1.0",
+    "sinon": "^4.4.2"
+  }
+}
